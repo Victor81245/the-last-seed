@@ -4,7 +4,7 @@
 
 ## 🌍 Live Demo
 
-https://polite-gnome-162526.netlify.app/
+https://the-last-seed-3d.netlify.app
 
 ## 📖 Overview
 
